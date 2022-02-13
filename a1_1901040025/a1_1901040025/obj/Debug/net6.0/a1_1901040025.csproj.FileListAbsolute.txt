@@ -1,0 +1,15 @@
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\bin\Debug\net6.0\a1_1901040025.exe
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\bin\Debug\net6.0\a1_1901040025.deps.json
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\bin\Debug\net6.0\a1_1901040025.runtimeconfig.json
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\bin\Debug\net6.0\a1_1901040025.dll
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\bin\Debug\net6.0\ref\a1_1901040025.dll
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\bin\Debug\net6.0\a1_1901040025.pdb
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\obj\Debug\net6.0\a1_1901040025.csproj.AssemblyReference.cache
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\obj\Debug\net6.0\a1_1901040025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\obj\Debug\net6.0\a1_1901040025.AssemblyInfoInputs.cache
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\obj\Debug\net6.0\a1_1901040025.AssemblyInfo.cs
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\obj\Debug\net6.0\a1_1901040025.csproj.CoreCompileInputs.cache
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\obj\Debug\net6.0\a1_1901040025.dll
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\obj\Debug\net6.0\ref\a1_1901040025.dll
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\obj\Debug\net6.0\a1_1901040025.pdb
+C:\Users\duyan\OneDrive\Desktop\Alway backup\Chuyên ngành\SS2\a1_1901040025\a1_1901040025\obj\Debug\net6.0\a1_1901040025.genruntimeconfig.cache
