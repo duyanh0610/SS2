@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EcommerceWeb",
+    "\\EcommerceWeb\\Areas",
+    "\\EcommerceWeb\\Areas\\Customer",
+    "\\EcommerceWeb\\Areas\\Customer\\Views",
+    "\\EcommerceWeb\\Areas\\Customer\\Views\\User",
+    "\\EcommerceWeb\\Models",
+    "\\EcommerceWeb\\Utility",
+    "\\EcommerceWeb\\Views",
+    "\\EcommerceWeb\\Views\\Shared"
+  ],
+  "SelectedNode": "\\EcommerceWeb.sln",
+  "PreviewInSolutionExplorer": false
+}
